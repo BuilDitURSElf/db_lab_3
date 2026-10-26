@@ -6,8 +6,8 @@ Introduction to Database Systems, Alexandria National University, Fall 2026.
 
 | Name                                                          | ID      | Did what                                                                         |
 | ------------------------------------------------------------- | ------- | -------------------------------------------------------------------------------- |
-| Amr<br />(عمرو خالد عبدالرحيم)               | 2304078 | everything (individual work): SQL scripts, answers, back end, front end, README  |
-| عبدالرحمن أحمد السيد محمد (Abdelrahman) | 2304056 |                                                                                  |
+| Amr<br />(عمرو خالد عبدالرحيم)               | 2304078 | backend  |
+| عبدالرحمن أحمد السيد محمد (Abdelrahman) | 2304056 |                                         frontend                                         |
 
 
 
